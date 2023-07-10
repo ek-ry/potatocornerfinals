@@ -1,0 +1,77 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+  }
+  
+  .navbar {
+    background-color: #FFA500 !important; 
+  }
+  
+  .navbar-brand img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+  
+  .nav-link {
+    color: #ffffff !important;
+    font-size: 1rem;
+  }
+  
+  .container {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  h2 {
+    font-family: 'Comic Neue', sans-serif;
+    color: #000000; 
+    font-weight: bold;
+  }
+  
+  .text-muted {
+    color: #6c757d !important; 
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important; 
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+  
+  footer {
+    background-color: #343a40; 
+    color: #ffffff;
+  }
+  
+  footer p {
+    font-size: 0.9rem;
+  }
+  
+  .mainp {
+    background-color: #28a745;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    color: #ffffff;
+  }
+  
+  
+  .mainp p {
+    background-color: #28a745;
+    padding: 1rem;
+    margin-bottom: 0;
+    color: #ffffff;
+  }
+  
+
+  
